@@ -31,7 +31,7 @@ Compartilhar o conhecimento adquirido no curso e apresentar exemplos práticos p
 
 ## Código Gherking
 
-Veja o arquivo [gherking-aula-pratica.feature](./gherking-aula-pratica.feature)
+Veja o arquivo da aula prática: [gherking-aula-pratica.feature](./gherking-aula-pratica.feature)
 
 ## 🤝 Contribuindo
 
