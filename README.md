@@ -31,7 +31,7 @@ Compartilhar o conhecimento adquirido no curso e apresentar exemplos práticos p
 
 ## Código Gherking
 
-Confira os arquivos na pasta [Gherking](./Gherking)
+Veja o arquivo [gherking-aula-pratica.feature](./gherking-aula-pratica.feature)
 
 ## 🤝 Contribuindo
 
