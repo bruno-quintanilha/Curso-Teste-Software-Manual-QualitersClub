@@ -48,6 +48,7 @@ Informações e scripts relacionados ao fluxo Upstream estão disponíveis aqui:
  # BugTracking
 
 Documentação e exemplos do sistema de acompanhamento de bugs podem ser encontrados em: 
+
 Plano de Teste Bug:https://onedrive.live.com/edit?id=515F595C0F29F1DD!14628&resid=515F595C0F29F1DD!14628&ithint=file,xlsx&wdOrigin=WAC.EXCEL.HOME-BUTTON,APPHOME-WEB.FILEBROWSER.RECENT&wdPreviousSession=0d46f6f1-6d0d-4b6b-ba7a-c7bd7075a649&wdPreviousSessionSrc=AppHomeWeb&ct=1752525563497&wdo=2&cid=515f595c0f29f1dd
 
 Controle de Bug:https://onedrive.live.com/edit?id=515F595C0F29F1DD!14624&resid=515F595C0F29F1DD!14624&ithint=file,xlsx&wdOrigin=WAC.EXCEL.HOME-BUTTON,APPHOME-WEB.FILEBROWSER.RECENT&wdPreviousSession=0d46f6f1-6d0d-4b6b-ba7a-c7bd7075a649&wdPreviousSessionSrc=AppHomeWeb&ct=1752525529664&wdo=2&cid=515f595c0f29f1dd
