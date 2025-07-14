@@ -29,7 +29,7 @@ Compartilhar o conhecimento adquirido no curso e apresentar exemplos práticos p
 
 ## 🧪 Exemplos Práticos
 
- # Gherking
+ # Gherkin
 
 Veja o arquivo da aula prática: [gherking-aula-pratica.feature](./gherking-aula-pratica.feature)
 
