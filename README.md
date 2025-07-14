@@ -29,7 +29,9 @@ Compartilhar o conhecimento adquirido no curso e apresentar exemplos práticos p
 
 ## 🧪 Exemplos Práticos
 
-A pasta [`/exemplos/projeto-exemplo`](./exemplos/projeto-exemplo) contém um projeto com requisitos, testes escritos em Gherkin, e um controle de defeitos simulados.
+## Código Gherking
+
+Confira os arquivos na pasta [Gherking](./Gherking)
 
 ## 🤝 Contribuindo
 
